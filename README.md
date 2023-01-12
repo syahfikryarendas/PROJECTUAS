@@ -19,6 +19,7 @@ Cara Menjalankan Program :
 
 ## Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
+[MODUL PENJELASAN TENTAN MVC DENGAN PYTHON](https://drive.google.com/file/d/1KAlShypxI6vwSy9kRsXHWNGqPsbybMuf/view?usp=share_link)
 
 ## Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
